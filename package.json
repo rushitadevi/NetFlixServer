@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "html2canvas": "^1.0.0-rc.3",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "pdfkit": "^0.10.0",
     "pdfmake": "^0.1.59",
     "shortid": "^2.2.15"
